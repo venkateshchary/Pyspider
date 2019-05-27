@@ -12,6 +12,8 @@ Documentation: http://docs.pyspider.org/
 
 Pyspider is having the control over the tasks sheduling and data conversion over the json csv formats,
 
+**Task manager dashboard provided by pyspider**
+![task_manager](https://user-images.githubusercontent.com/24164028/58432989-b0404400-80d2-11e9-8f5e-8e400df37906.PNG)
 
 
 
